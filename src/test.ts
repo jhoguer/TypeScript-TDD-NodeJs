@@ -1,5 +1,5 @@
 function test(): number {
-  return 59
+  return 60
 }
 test()
 
