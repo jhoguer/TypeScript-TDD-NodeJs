@@ -1,4 +1,5 @@
-function test (): number {
+function test(): number {
   return 25
 }
 test()
+
