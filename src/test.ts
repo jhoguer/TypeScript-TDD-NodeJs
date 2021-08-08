@@ -1,5 +1,6 @@
 function test(): number {
-  return 60
+  return 67
+  
 }
 test()
 
