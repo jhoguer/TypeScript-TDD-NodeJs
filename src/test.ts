@@ -1,6 +1,4 @@
-function test(): number {
-  return 67
-  
+function test (): number {
+  return 43
 }
 test()
-
