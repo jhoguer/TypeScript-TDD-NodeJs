@@ -1,4 +1,5 @@
 function test (): number {
-  return 23
+  return 3
 }
+
 test()
